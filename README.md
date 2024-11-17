@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://myfinances-iamdevmarcos.vercel.app/">
-    <img src="./public/images/Project.png" width="550">
+    <img src="./public/images/img.png" width="550">
   </a>
 </p>
 
@@ -15,14 +15,14 @@
 
 ## Test Online
 
-[Click Here](https://myfinances-iamdevmarcos.vercel.app/)
+[Click Here]()
 
 ## Running locally
 
 1. Clone this repo:
 
 ```sh
-$ git clone https://github.com/iamdevmarcos/my-finances
+$ git clone 
 ```
 
 2. Then go to the project's folder:
